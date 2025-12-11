@@ -1,0 +1,29 @@
+
+#Body {
+    text-align: center;
+}
+
+.MLA {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2;
+    margin: 1in;
+}
+
+
+#Header {
+    text-align: right;
+}
+
+
+#B {
+    padding: 10px;
+}
+
+#MEtext,
+#FEtext,
+#Etext {
+    display:inline;      
+    padding: 10px;   
+    background-color: rgb(0, 0, 0); 
+}
